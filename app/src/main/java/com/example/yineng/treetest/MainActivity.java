@@ -31,6 +31,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         mTree = (ListView) findViewById(R.id.id_listview);
+        //我这是在测试
 
         initDatas();
         try {
