@@ -123,6 +123,6 @@ public class MainActivity extends Activity {
 
     public void testActivity(View view) {
 
-        startActivity(new Intent(this,TestActivity.class));
+        startActivity(new Intent(this, TestActivity.class));
     }
 }
